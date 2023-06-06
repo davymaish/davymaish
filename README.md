@@ -1,8 +1,8 @@
 <img align="right" src="developer.gif" alt="Coder GIF" width="420" height="330">
 
 ### Hi there, I am David Maina 👋
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/davymaish/)](https://www.linkedin.com/in/davymaish/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:davidmainadmg05@gmail.com)](mailto:davymaish@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/davymaish-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/davymaish/)](https://www.linkedin.com/in/davymaish/)
+[![Gmail Badge](https://img.shields.io/badge/davidmainadmg05@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:davidmainadmg05@gmail.com)](mailto:davymaish@gmail.com)
 <!---![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=flat-square&logo=Upwork&logoColor=white) -->
 
 - 🎯 Portfolio website: [My Portfolio](https://davymaish.github.io/)
