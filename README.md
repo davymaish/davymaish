@@ -29,7 +29,7 @@
 
 
 <a href="https://github.com/davymaish" title="Go to Source">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@davymaish&custom_title=IDE%20Stats&bg_color=90,333333,222222&title_color=fff&text_color=fff&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=davymaish&custom_title=IDE%20Stats&bg_color=90,333333,222222&title_color=fff&text_color=fff&hide_border=true" />
 </a>
 
 🛠**Tech Stack**
