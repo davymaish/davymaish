@@ -36,7 +36,6 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
