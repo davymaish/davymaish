@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-davymaish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davymaish/)](https://www.linkedin.com/in/davymaish/)
 [![Gmail Badge](https://img.shields.io/badge/-davidmainadmg05@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidmainadmg05@gmail.com)](mailto:davymaish@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://davymaish.github.io/)
+- 🎯 Portfolio website: [My Portfolio](https://davymaish.github.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 <!--- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -22,6 +22,15 @@
 - Innovation 🧐 
 
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davymaish&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true)](https://github.com/davymaish/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=davymaish&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+</a>
+
+
+<a href="https://github.com/davymaish" title="Go to Source">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@davymaish&custom_title=IDE%20Stats&bg_color=90,333333,222222&title_color=fff&text_color=fff&hide_border=true" />
+</a>
 
 🛠**Tech Stack**
 ![LAMP(PHP)](https://img.shields.io/badge/-lamp-000000?style=flat&logo=lamp)
@@ -60,26 +69,12 @@
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker)
 <!-- ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku) -->
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davymaish&layout=compact)](https://github.com/davymaish)
+
 <div align="center">
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div>
-
-
-<a href="https://github.com/jeremykenedy">
-  <img align="center" src="https://github-readme-stats-deploy-jeremykenedy.vercel.app/api/wakatime?username=@jeremykenedy&custom_title=IDE%20Stats&bg_color=90,333333,222222&title_color=fff&text_color=fff&hide_border=true" />
-</a>
-
-
-[![Github stats](https://github-readme-stats-deploy-jeremykenedy.vercel.app/api?username=jeremykenedy&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/jeremykenedy)
-
-
-[![Top Langs](https://github-readme-stats-deploy-jeremykenedy.vercel.app/api/top-langs/?username=jeremykenedy&layout=compact)](https://github.com/jeremykenedy)
-
-[![Wakatime stats](https://github-readme-stats-deploy-jeremykenedy.vercel.app/api/wakatime?username=@jeremykenedy)](https://github.com/jeremykenedy)
-
-**jeremykenedy/jeremykenedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
 
