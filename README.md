@@ -26,11 +26,13 @@
 </a>
 
 🛠**Tech Stack**
+
 ![LAMP(PHP)](https://img.shields.io/badge/-lamp-000000?style=flat&logo=lamp)
 ![MEVN](https://img.shields.io/badge/-mevn-000000?style=flat&logo=mevn)
 ![MERN](https://img.shields.io/badge/-mern-000000?style=flat&logo=mern)
 
 🌱**Frameworks**
+
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![Laravel](https://img.shields.io/badge/-laravel-000000?style=flat&logo=laravel)
 ![Redux](https://img.shields.io/badge/-redux-000000?style=flat&logo=redux)
@@ -39,20 +41,21 @@
 ![Vue](https://img.shields.io/badge/-vue-000000?style=flat&logo=vue)
 
 💬**Languages**
+
 ![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/-javascript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 ![SQL](https://img.shields.io/badge/-sql-000000?style=flat&logo=sql)
-![Bash](https://img.shields.io/badge/-bash-000000?style=flat&logo=bash)
-![DSA](https://img.shields.io/badge/-dsa-000000?style=flat&logo=dsa)
 
 📫**Databases**
+
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
 
 ⚡**Technologies**
+
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
@@ -61,7 +64,6 @@
 ![DevOps](https://img.shields.io/badge/-DevOps-000000?style=flat&logo=DevOps)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker)
 <!-- ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku) -->
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davymaish&layout=compact)](https://github.com/davymaish)
 
