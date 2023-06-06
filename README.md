@@ -21,11 +21,8 @@
 - Data Science 😬
 - Innovation 🧐 
 
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davymaish&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true)](https://github.com/davymaish/github-readme-stats)
-
 <a href="https://github.com/davymaish" title="Go to Source">
-  <!--<img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=davymaish&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />-->
-  <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=davymaish&custom_title=IDE%20Stats&bg_color=90,333333,222222&title_color=fff&text_color=fff&hide_border=true" />
+  <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=davymaish&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
 </a>
 
 🛠**Tech Stack**
