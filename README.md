@@ -2,9 +2,9 @@
 
 ### Hi there, I am David Maina 👋
 [![Linkedin Badge](https://img.shields.io/badge/-davymaish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davymaish/)](https://www.linkedin.com/in/davymaish/)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)
 [![Gmail Badge](https://img.shields.io/badge/-davidmainadmg05@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidmainadmg05@gmail.com)](mailto:davymaish@gmail.com)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
 ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 
 - 🎯 Portfolio website: [My Portfolio](https://davymaish.github.io/)
@@ -30,9 +30,9 @@
 
 🛠**Tech Stack**
 
-![LAMP(PHP)
-![MEVN]
-![MERN]
+![LAMP(PHP)](https://img.shields.io/badge/-lamp-000000?style=flat&logo=lamp)
+![MEVN](https://img.shields.io/badge/-mevn-000000?style=flat&logo=mevn)
+![MERN](https://img.shields.io/badge/-mern-000000?style=flat&logo=mern)
 
 🌱**Frameworks**
 
