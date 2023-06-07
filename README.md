@@ -28,9 +28,9 @@
 
 🛠**Tech Stack**
 
-![LAMP(PHP)](https://img.shields.io/badge/-lamp-000000?style=flat&logo=lamp)
-![MEVN](https://img.shields.io/badge/-mevn-000000?style=flat&logo=mevn)
-![MERN](https://img.shields.io/badge/-mern-000000?style=flat&logo=mern)
+![LAMP Stack](https://img.shields.io/badge/lamp-stack-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![MEVN Stack](https://img.shields.io/badge/mevn-stack-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![MERN Stack](https://img.shields.io/badge/mern-stack-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
 🌱**Frameworks**
 
@@ -41,7 +41,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 
-💬**Languages**
+<!-- 💬**Languages**
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
@@ -53,7 +53,7 @@
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) -->
 
 ⚡**Technologies**
 
@@ -62,7 +62,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![DevOps](https://img.shields.io/badge/-DevOps-000000?style=flat&logo=DevOps)
+![DevOps](https://img.shields.io/badge/DevOps-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 <!-- ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
 
