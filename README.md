@@ -28,9 +28,9 @@
 
 🛠**Tech Stack**
 
-![LAMP Stack](https://img.shields.io/badge/lamp-stack-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![MEVN Stack](https://img.shields.io/badge/mevn-stack-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-![MERN Stack](https://img.shields.io/badge/mern-stack-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![LAMP Stack](https://img.shields.io/badge/lamp_stack-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![MEVN Stack](https://img.shields.io/badge/mevn_stack-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![MERN Stack](https://img.shields.io/badge/mern_stack-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
 🌱**Frameworks**
 
@@ -57,10 +57,10 @@
 
 ⚡**Technologies**
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
