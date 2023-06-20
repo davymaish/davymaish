@@ -2,7 +2,7 @@
 
 ### Hi there, I am David Maina 👋
 [![LinkedIn Badge](https://img.shields.io/badge/davymaish-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/davymaish/)](https://www.linkedin.com/in/davymaish/)
-[![Gmail Badge](https://img.shields.io/badge/davidmainadmg05@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:davidmainadmg05@gmail.com)](mailto:davymaish@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/davymaish6@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:davymaish6@gmail.com)](mailto:davymaish6@gmail.com)
 <!---![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=flat-square&logo=Upwork&logoColor=white) -->
 
 - 🎯 Portfolio website: [My Portfolio](https://davymaish.github.io/)
